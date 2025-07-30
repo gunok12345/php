@@ -29,6 +29,7 @@
             <li><a href="w02-01-oddEvenNumber.php">odd-Even-Number</a></li>
             <li><a href="W02-02-Grade.php">Calculate Grade</a></li>
             <li><a href="W02-03-Product.php">Product</a></li>
+            <li><a href="W06_01_loopProduct.php">loopProduct</a></li>
 
 </ul>
     

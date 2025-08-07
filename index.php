@@ -30,6 +30,9 @@
             <li><a href="W02-02-Grade.php">Calculate Grade</a></li>
             <li><a href="W02-03-Product.php">Product</a></li>
             <li><a href="W06_01_loopProduct.php">loopProduct</a></li>
+            <li><a href="W07_01_ConnectDB.php">ConnectDB</a></li>
+            <li><a href="W07_02_fetchData.php">fetchData</a></li>
+            <li><a href="W08_01_ProductFromDB.php">showdatafromdb</a></li>
 
 </ul>
     
